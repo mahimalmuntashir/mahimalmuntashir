@@ -1,7 +1,7 @@
 ### Hi, 👋 <br>
 ## I'm Mahim Al Muntashir Billah
 <p>
-👑 I am Web Developer <br> 
+👑 Web Developer <br> 
 🖊️ Love to code <br> 
 🎤 Like to share knowledge </p> 
 
