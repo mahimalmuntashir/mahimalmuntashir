@@ -10,11 +10,12 @@
 I’m a Front End Web developer who is passionate about making responsive websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with HTML, CSS and JavaScript. 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Python <br>
 ✅ C / C++ <br>
+✅ JAVA  <br>
+✅ HTML5 / CSS3  <br>
+✅ JavaScript <br>
+✅ WordPress / Bootstrap <br> 
 ✅ Photoshop / Illustrator <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimalmuntashir&layout=compact)
