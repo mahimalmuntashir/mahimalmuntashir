@@ -12,7 +12,7 @@ I’m a Front End Web developer who is passionate about making responsive websit
 ## 👨‍💻 Skills & Experiance: 
 ✅ Python <br>
 ✅ C / C++ <br>
-✅ JAVA  <br>
+✅ Java  <br>
 ✅ HTML5 / CSS3  <br>
 ✅ JavaScript <br>
 ✅ WordPress / Bootstrap <br> 
