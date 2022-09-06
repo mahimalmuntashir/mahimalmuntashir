@@ -1,6 +1,15 @@
-### Hi, 👋 <br>
-## I'm Mahim Al Muntashir Billah
-<p>
+
+<!-- Updating my readme for GitHub-->
+
+
+<h1  align="center">Hi <img  src="https://github.com/mahimalmuntashir/mahimalmuntashir/blob/main/Wave.gif"  height="55px"  width="55px">, I'm Mahim Al Muntashir Billah</h1>
+
+<p  align="center">
+
+<img  src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Junior+Java/Python/C+Developer;Competitive+Programmer;Learning+In+Public;Real+World+Problem+Solver;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
 👑 Web Developer <br> 
 🖊️ Love to code <br> 
 🎤 Like to share knowledge </p> 
