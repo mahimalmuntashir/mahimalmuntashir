@@ -2,7 +2,7 @@
 <!-- Updating my readme for GitHub-->
 
 
-<h1  align="center">Hi <img  src="https://github.com/mahimalmuntashir/mahimalmuntashir/blob/main/Wave.gif"  height="55px"  width="55px">, I'm Mahim Al Muntashir Billah</h1>
+<h1  align="center">Hi <img  src="https://github.com/mahimalmuntashir/mahimalmuntashir/blob/main/images/Wave.gif"  height="55px"  width="55px">, I'm Mahim Al Muntashir Billah</h1>
 
 <p  align="center">
 
