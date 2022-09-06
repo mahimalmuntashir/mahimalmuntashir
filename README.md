@@ -27,6 +27,22 @@ I’m a Front End Web developer who is passionate about making responsive websit
 ✅ WordPress / Bootstrap <br> 
 ✅ Photoshop / Illustrator <br>
 
+### About Me 🚀
+
+🧑🏽‍💻 I’m a C/C++ Programmer With Knowledge of Data Structure and Algorithm, Diving in Problem Solving.</br>
+
+🔥 Learned Java and Python and did project to solve real world problem</br>
+
+🎓 Pursuing my Bachelors in Computer Science & Engineering at University of Dhaka </br>
+
+⛵ Open Source Enthusiast | Machine Learning Enthusiast</br>
+
+🤫 Learning Android Development, Cloud Computing, UI/UX, Problem Solving</br>
+
+🌱 You can ask me about Open Source, Academics, Programming in Java/Python/C/C++ , Problem Solving<br>
+
+😛 Fun Fact: I feel like I'm kind of lazy, but I keep the yard looking good.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimalmuntashir&layout=compact)
 
 ## ☕ Connect with me!
