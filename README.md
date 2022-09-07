@@ -33,7 +33,7 @@ I’m a Front End Web developer who is passionate about making responsive websit
 
 🔥 Learned Java and Python and did project to solve real world problem</br>
 
-🎓 Pursuing my Bachelors in Computer Science & Engineering at University of Dhaka </br>
+🎓 Pursuing my Bachelors in Computer Science & Engineering at Nantong University</br>
 
 ⛵ Open Source Enthusiast | Machine Learning Enthusiast</br>
 
