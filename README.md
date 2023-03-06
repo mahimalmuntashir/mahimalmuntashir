@@ -22,7 +22,7 @@ I’m a Front End Web developer who is passionate about making responsive websit
 ✅ C / C++ <br>
 ✅ Java  <br>
 ✅ Python <br>
-✅ HTML5 / CSS3  <br>
+✅ HTML5 & CSS3  <br>
 ✅ JavaScript <br>
 ✅ WordPress / Bootstrap <br> 
 ✅ Photoshop / Illustrator <br>
@@ -31,15 +31,11 @@ I’m a Front End Web developer who is passionate about making responsive websit
 
 🧑🏽‍💻 I’m a C/C++ Programmer With Knowledge of Data Structure and Algorithm, Diving in Problem Solving.</br>
 
-🔥 Learned Java and Python and did project to solve real world problem</br>
-
 🎓 Pursuing my Bachelors in Computer Science and Technology at Nantong University</br>
 
-⛵ Open Source Enthusiast | Machine Learning Enthusiast</br>
+🤫 Learning Web Development, aslo interested in Blockchain Development</br>
 
-🤫 Learning Android Development, Cloud Computing, UI/UX, Problem Solving</br>
-
-🌱 You can ask me about Open Source, Academics, Programming in Java/Python/C/C++ , Problem Solving<br>
+🌱 You can ask me about Open Source, Academics, Programming in C/C++/Java/Python, Problem Solving<br>
 
 😛 Fun Fact: I feel like I'm kind of lazy, but I keep the yard looking good.
 
