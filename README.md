@@ -16,7 +16,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mahimalmuntashir) 
 
-I’m a Front End Web developer who is passionate about making responsive websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created many websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with HTML, CSS and JavaScript. I also enjoy working with WordPress. 
+I’m a Front End Web developer passionate about making responsive websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created many websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with HTML, CSS, and JavaScript. I also enjoy working with WordPress. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ C / C++ <br>
@@ -33,11 +33,11 @@ I’m a Front End Web developer who is passionate about making responsive websit
 
 🎓 Pursuing my Bachelors in Computer Science and Technology at Nantong University</br>
 
-🤫 Learning Web Development, aslo interested in Blockchain Development</br>
+🤫 Learning Web Development, also interested in Blockchain Development</br>
 
 🌱 You can ask me about Open Source, Academics, Programming in C/C++/Java/Python, Problem Solving<br>
 
-😛 Fun Fact: I feel like I'm kind of lazy, but I keep the yard looking good.
+😛 Fun Fact: I feel like I'm lazy, but I keep the yard looking good.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimalmuntashir&layout=compact)
 
